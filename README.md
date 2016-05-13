@@ -18,4 +18,4 @@ To install these .nemo_actions:
  ln -s /Path/To/ClonedRepo/<filename>.sh <filename>.sh
 ```
 
-Repeat for each action/sh pair. Some .nemo_actions do not have/need the .sh file, so just the .nemo_action symlink will work...
+Repeat for each action/sh pair. Some .nemo_actions do not have/need the .sh file, so just the .nemo_action symlink will work.
