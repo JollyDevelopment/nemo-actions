@@ -4,6 +4,7 @@ These are small nemo_actions. Used by the Nemo File Manager (https://github.com/
 
 ## Installation
 
+from the [Arch wiki](https://wiki.archlinux.org/index.php/Nemo)...
 Nemo allows the user to add new entries to the context menu. The file /usr/share/nemo/actions/sample.nemo_action contains an example of a Nemo action. Directories to place custom action files:
 
  - /usr/share/nemo/actions/ for system-wide actions
